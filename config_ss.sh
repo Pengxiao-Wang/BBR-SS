@@ -27,12 +27,12 @@ rc4-md5
 )
 
 #Version and url
-libsodiumver="libsodium-1.0.17"
-libsodiumurl="https://github.com/jedisct1/libsodium/releases/download/1.0.17/libsodium-1.0.17.tar.gz"
+libsodiumver="libsodium-1.0.18"
+libsodiumurl="https://github.com/jedisct1/libsodium/releases/download/1.0.18/libsodium-1.0.18.tar.gz"
 mbedtlsver="mbedtls-2.16.0"
 mbedtlsurl="https://tls.mbed.org/download/mbedtls-2.16.0-gpl.tgz"
-shadowsocksver="shadowsocks-libev-3.2.5"
-shadowsocksurl="https://github.com/shadowsocks/shadowsocks-libev/releases/download/v3.2.5/shadowsocks-libev-3.2.5.tar.gz"
+shadowsocksver="shadowsocks-libev-3.3.0"
+shadowsocksurl="https://github.com/shadowsocks/shadowsocks-libev/releases/download/v3.3.0/shadowsocks-libev-3.3.0.tar.gz"
 #initscripturl="https://raw.githubusercontent.com/uxh/shadowsocks_bash/master/shadowsocks-libev"
 initscripturl="https://github.com/shadowsocks/shadowsocks-libev"
 #Disable selinux
