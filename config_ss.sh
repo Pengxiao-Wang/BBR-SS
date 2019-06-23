@@ -33,8 +33,8 @@ mbedtlsver="mbedtls-2.16.0"
 mbedtlsurl="https://tls.mbed.org/download/mbedtls-2.16.0-gpl.tgz"
 shadowsocksver="shadowsocks-libev-3.2.5"
 shadowsocksurl="https://github.com/shadowsocks/shadowsocks-libev/releases/download/v3.2.5/shadowsocks-libev-3.2.5.tar.gz"
-initscripturl="https://raw.githubusercontent.com/uxh/shadowsocks_bash/master/shadowsocks-libev"
-
+#initscripturl="https://raw.githubusercontent.com/uxh/shadowsocks_bash/master/shadowsocks-libev"
+initscripturl="https://github.com/shadowsocks/shadowsocks-libev"
 #Disable selinux
 function disable_selinux() {
     if [ -s /etc/selinux/config ] && grep "SELINUX=enforcing" /etc/selinux/config; then
