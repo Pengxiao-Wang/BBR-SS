@@ -1,7 +1,7 @@
 # BBR-SS
 #### fixed a few errors - 20190623
 one script to configure BBR tcp-acceleration &amp; SS vps
-###JUST:
+### JUST:
 1. clone this repo
 2. cd BBR-SS
 3. bash config.sh
