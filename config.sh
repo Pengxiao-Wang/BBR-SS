@@ -1,3 +1,5 @@
+bash config_ss.sh
+
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
 chmod +x bbr.sh
@@ -12,4 +14,4 @@ sysctl -p
 
 sysctl net.ipv4.tcp_available_congestion_control
 
-bash config_ss.sh
+
